@@ -116,7 +116,7 @@ public class Program
     public static string ChuyenSoThanhChu(double number)
     {
         if (number == 0)
-            return number.ToString();
+            return "không";
 
         string lso_chu = "";
         string tach_mod = "";
